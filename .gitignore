@@ -1,2 +1,5 @@
-     node_modules/
+     node_modules
      .env
+      backend/.env.production
+      backend/.env.test
+    backend/.env
